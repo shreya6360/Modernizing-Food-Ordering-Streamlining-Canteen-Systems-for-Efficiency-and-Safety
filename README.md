@@ -2,7 +2,7 @@
 
 Researching and implementing modern, contactless ordering systems to enhance efficiency and safety in canteen environments, particularly during the COVID-19 pandemic.
 
-#Prerequisites
+# Prerequisites
 
     python get-pip.py
 
@@ -43,12 +43,13 @@ To run this project locally, run this command on your git bash:
 
 Linux and macOS:
 
-sudo git clone 
+sudo git clone https://github.com/shreya6360/Modernizing-Food-Ordering-Streamlining-Canteen-Systems-for-Efficiency-and-Safety.git
+
 Windows:
 
-git clone 
+git clone https://github.com/shreya6360/Modernizing-Food-Ordering-Streamlining-Canteen-Systems-for-Efficiency-and-Safety.git
 
-#License
+# License
 
 This project is free to use and does not contains any license.
     
